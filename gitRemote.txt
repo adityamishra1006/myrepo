@@ -1,0 +1,13 @@
+- Github Account
+- Create empty repo
+- Use in local system
+    
+
+    git config --global user.name "adityamishra1006"
+    git config --global user.email "mishraaditya6001@gmail.com"
+    
+    git push -u origin master
+    
+    - It will ask for username and password
+    - Do not enter password use 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 as password
+    - Password → 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
